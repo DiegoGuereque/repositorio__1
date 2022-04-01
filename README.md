@@ -1,3 +1,3 @@
 # repositorio__1
-Pues un repositorio, vdd.
+Primer repositorio.
 Mi dirección de correo es a348893@uach.mx
